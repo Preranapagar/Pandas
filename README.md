@@ -20,5 +20,12 @@
     - describe
 
 4. Access Data from DataFrame
-    - Access 
+    - Access columns
+    - Acess rows
+        - First N rows
+        - Last N rows
+    - Acess rows & columns
+        1. Slicing Method
+        2. iloc Method
+        3. loc Method
 
