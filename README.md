@@ -29,3 +29,8 @@
         2. iloc Method
         3. loc Method
 
+5. Sort DataFrame
+    1. Sort Index
+    2. Sort Values
+    3. Reset Index
+    4. Set Index
