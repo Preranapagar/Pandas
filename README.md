@@ -18,6 +18,7 @@
     - dtypes
     - info
     - describe
+    - duplicates
 
 4. Access Data from DataFrame
     - Access columns
@@ -34,3 +35,27 @@
     2. Sort Values
     3. Reset Index
     4. Set Index
+
+6. Handling Missing Values
+    1. Detect Missing Values
+        - df.isna()
+        - df.isnull()
+
+    2. Fill Missing Values
+        - df.fillna()
+            1. using mean
+            2. using median
+            3. using mode
+            4. using min
+            5. using max
+            6. using static
+
+    3. Drop Missing Values
+        - df.dropna()
+            1. drop rows
+            2. drop columns
+
+    4. Detect Not Missing Values
+        - df.notna()
+        - df.notnull()
+
