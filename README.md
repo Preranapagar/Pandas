@@ -11,6 +11,13 @@
 
 3. Functions :
     - Read DataFrame
+        1. Read CSV File
+        2. Read Excel File
+    - Create DataFrame
+        1. Create CSV File
+        2. Create Excel File
+        3. Create Dictionary
+        4. Create JSON File
     - Shape of Dataframe
     - Columns
     - Index
@@ -27,7 +34,8 @@
     - astype
     - insert
     - rename
-    - 
+    - apply
+    - groupby
 
 - Access Data from DataFrame
     - Access columns
@@ -67,4 +75,10 @@
     4. Detect Not Missing Values
         - df.notna()
         - df.notnull()
+
+- Pandas Joins
+    1. Append
+    2. Concat
+    3. Merge
+    4. Join
 
