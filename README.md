@@ -20,7 +20,7 @@
     - describe
     - duplicates
 
-4. Access Data from DataFrame
+- Access Data from DataFrame
     - Access columns
     - Acess rows
         - First N rows
@@ -30,13 +30,13 @@
         2. iloc Method
         3. loc Method
 
-5. Sort DataFrame
+- Sort DataFrame
     1. Sort Index
     2. Sort Values
     3. Reset Index
     4. Set Index
 
-6. Handling Missing Values
+- Handling Missing Values
     1. Detect Missing Values
         - df.isna()
         - df.isnull()
