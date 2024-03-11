@@ -19,6 +19,15 @@
     - info
     - describe
     - duplicates
+    - value_counts
+    - unique
+    - nunique
+    - series to dict
+    - replace
+    - astype
+    - insert
+    - rename
+    - 
 
 - Access Data from DataFrame
     - Access columns
